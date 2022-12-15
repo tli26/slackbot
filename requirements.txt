@@ -1,0 +1,5 @@
+Flask==2.2.2
+openai==0.25.0
+python-dotenv==0.21.0
+slackclient==2.9.4
+slackeventsapi==3.0.1
